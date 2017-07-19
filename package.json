@@ -1,0 +1,20 @@
+{
+  "name": "simondice",
+  "version": "0.1.0",
+  "description": "Juego Simon Dice. Ejercicio de FJS de Platzi",
+  "main": "sweetalert.min.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanludena/JSimon.git"
+  },
+  "keywords": [
+    "juego",
+    "simon",
+    "dice"
+  ],
+  "author": "Jonathan Ludeña <jonathanludenai@gmail.com> (https://twitter.com/jonathanludena)",
+  "license": "MIT"
+  },
+  "homepage": "https://github.com/jonathanludena/JSimon#readme"
+}
